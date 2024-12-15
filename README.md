@@ -1,4 +1,4 @@
- I’m Diluka Banadra, a passionate Full-Stack Developer  Enthusiast currently pursuing my degree at Sri Lanka Institute of Information Technology (SLIIT).
+ I’m Diluka Banadra, a passionate Full-Stack Developer  
 
 💻 I specialize in: MERN
 
@@ -6,7 +6,7 @@
 
 📫 Connect with me:
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn:https://www.linkedin.com/in/diluka-bandara-5636ba30a
 Email: navanjana721@gmail.com
 
    
