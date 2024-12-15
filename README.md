@@ -7,6 +7,7 @@ A passionate Full-Stack Developer specializing in the MERN stack.
 📫 Connect with me:
 
 LinkedIn :https://www.linkedin.com/in/diluka-bandara-5636ba30a
+
 Email: navanjana721@gmail.com
 
    
