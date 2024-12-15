@@ -1,13 +1,11 @@
- I’m Diluka Banadra, a passionate Full-Stack Developer  
+Hi, I’m Diluka Banadra!
+A passionate Full-Stack Developer specializing in the MERN stack.
 
-💻 I specialize in  MERN
-
-🚀 Interests  Full-stack web applications
+🚀 Interests: Building dynamic full-stack web applications.
 
 📫 Connect with me:
 
-LinkedIn:https://www.linkedin.com/in/diluka-bandara-5636ba30a
-
+LinkedIn :
 Email: navanjana721@gmail.com
 
    
