@@ -1,64 +1,79 @@
  <h1 align="center">Hi, I'm Diluka Bandara 👋</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">A Passionate Full-Stack Developer | MERN Stack Enthusiast</h3>
+
+<p align="center">🌟 Transforming ideas into functional, scalable, and user-friendly web applications.</p>
 
 ---
 
-<p align="center">
-  🌟 Crafting modern, scalable web applications with a focus on performance, design, and user experience.  
-</p>
-
----
-
-<h2 align="left">🌐 Connect with Me:</h2>
+<h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/diluka-bandara" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Diluka Bandara LinkedIn" height="40" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Add more links here, e.g., GitHub profile, portfolio -->
+  <a href="https://github.com/dilukab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:dilukabandara@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="left">🛠️ Languages & Tools:</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <!-- Core Skills -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<p align="left">
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+---
+
+<h2 align="left">🚀 Projects</h2>
+<ul>
+  <li><strong>D&B7 Food Delivery</strong> – A full-stack MERN web application for efficient food delivery.</li>
+  <li><strong>E-Commerce Platform</strong> – A dynamic MERN stack website featuring user authentication, product management, and payment gateway integration.</li>
+  <li><strong>Library System</strong> – A full-stack web application to manage library operations efficiently.</li>
+</ul>
+<p align="left">
+  <a href="https://github.com/dilukab?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore More"/>
   </a>
 </p>
 
 ---
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=react&hide_border=true" alt="GitHub Streak" width="400px"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=react" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukab&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="400px"/>
 </p>
 
 ---
+
+<h2 align="left">💡 About Me</h2>
+<ul>
+  <li>🎓 Undergraduate at the Sri Lanka Institute of Information Technology (SLIIT).</li>
+  <li>💻 Currently enhancing my skills in full-stack development and MERN stack technologies.</li>
+  <li>🚀 Driven by a passion for creating impactful digital experiences.</li>
+</ul>
+<p align="center">"Code is my canvas, and the web is my gallery." 🎨</p>
+
  
 
 
