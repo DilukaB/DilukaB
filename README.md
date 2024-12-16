@@ -1,7 +1,6 @@
- <h1 align="center"> I'm Diluka Bandara </h1>
+ <h1 align="center">👋 I'm Diluka Bandara</h1>
 <h3 align="center">A Passionate Full-Stack Developer | MERN Stack Enthusiast</h3>
 
- 
 ---
 
 <h2 align="left">🌐 Connect with Me</h2>
@@ -19,19 +18,15 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 <p align="left">
-  <!-- Core Skills -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
- 
-
 </p>
 
 <p align="left">
-  <!-- Tools & Others -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -41,7 +36,16 @@
 ---
 
 <h2 align="left">🚀 Projects</h2>
- 
+<ul>
+  <li>
+    <strong><a href="https://github.com/dilukab/dnb7" target="_blank">D&B7 - Food Delivery Platform</a></strong>
+    <p>A seamless food delivery application with responsive UI/UX, real-time updates, and integrated payment systems.</p>
+  </li>
+  <li>
+    <strong><a href="https://github.com/dilukab/ecommerce-mern" target="_blank">MERN E-commerce Website</a></strong>
+    <p>A full-stack e-commerce platform featuring user authentication, admin dashboards, and dynamic product management.</p>
+  </li>
+</ul>
 <p align="left">
   <a href="https://github.com/dilukab?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20More-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore More"/>
@@ -52,19 +56,18 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=react&hide_border=true" alt="GitHub Streak" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukab&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" width="400px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukab&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilukab&theme=github_dark" alt="Repos Per Language" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilukab&theme=github_dark&utcOffset=5.5" alt="Most Active Hours" width="400px"/>
 </p>
 
 ---
 
- 
- 
-
-
- 
- 
-
+<h2 align="left">💡 Featured Contributions</h2>
+<ul>
+  <li>Built a <strong>MERN E-commerce Platform</strong> with advanced features like secure payments and admin order management.</li>
+  <li>Designed <strong>D&B7</strong>, a food delivery app with real-time order tracking and responsive UI.</li>
+</ul>
