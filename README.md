@@ -36,16 +36,7 @@
 ---
 
 <h2 align="left">🚀 Projects</h2>
-<ul>
-  <li>
-    <strong><a href="https://github.com/dilukab/dnb7" target="_blank">D&B7 - Food Delivery Platform</a></strong>
-    <p>A seamless food delivery application with responsive UI/UX, real-time updates, and integrated payment systems.</p>
-  </li>
-  <li>
-    <strong><a href="https://github.com/dilukab/ecommerce-mern" target="_blank">MERN E-commerce Website</a></strong>
-    <p>A full-stack e-commerce platform featuring user authentication, admin dashboards, and dynamic product management.</p>
-  </li>
-</ul>
+ 
 <p align="left">
   <a href="https://github.com/dilukab?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20More-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore More"/>
@@ -66,8 +57,4 @@
 
 ---
 
-<h2 align="left">💡 Featured Contributions</h2>
-<ul>
-  <li>Built a <strong>MERN E-commerce Platform</strong> with advanced features like secure payments and admin order management.</li>
-  <li>Designed <strong>D&B7</strong>, a food delivery app with real-time order tracking and responsive UI.</li>
-</ul>
+ 
