@@ -59,14 +59,7 @@
 </p>
 
 ---
-
-<h2 align="left">🚀 About Me:</h2>
-<p>
-  🎓 Undergraduate at the <strong>Sri Lanka Institute of Information Technology (SLIIT)</strong>, exploring the intersections of coding, creativity, and innovation.<br/>
-  💡 Working on projects like <strong>food delivery platforms</strong> (e.g., *D&B7*) and <strong>e-commerce websites</strong>, with a keen interest in MERN stack development.<br/>
-  🌱 Currently enhancing my <strong>Next.js</strong> and <strong>React.js</strong> skills while building scalable full-stack solutions.<br/>
-  🎯 My goal: To design impactful web applications and build a professional portfolio showcasing my expertise.<br/>
-</p>
+ 
 
 
  
