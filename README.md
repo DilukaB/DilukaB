@@ -41,11 +41,7 @@
 ---
 
 <h2 align="left">🚀 Projects</h2>
-<ul>
-  <li><strong>D&B7 Food Delivery</strong> – A full-stack MERN web application for efficient food delivery.</li>
-  <li><strong>E-Commerce Platform</strong> – A dynamic MERN stack website featuring user authentication, product management, and payment gateway integration.</li>
-  <li><strong>Library System</strong> – A full-stack web application to manage library operations efficiently.</li>
-</ul>
+ 
 <p align="left">
   <a href="https://github.com/dilukab?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20More-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore More"/>
