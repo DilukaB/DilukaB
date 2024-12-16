@@ -1,8 +1,7 @@
  <h1 align="center">Hi, I'm Diluka Bandara 👋</h1>
 <h3 align="center">A Passionate Full-Stack Developer | MERN Stack Enthusiast</h3>
 
-<p align="center">🌟 Transforming ideas into functional, scalable, and user-friendly web applications.</p>
-
+ 
 ---
 
 <h2 align="left">🌐 Connect with Me</h2>
@@ -66,14 +65,7 @@
 
 ---
 
-<h2 align="left">💡 About Me</h2>
-<ul>
-  <li>🎓 Undergraduate at the Sri Lanka Institute of Information Technology (SLIIT).</li>
-  <li>💻 Currently enhancing my skills in full-stack development and MERN stack technologies.</li>
-  <li>🚀 Driven by a passion for creating impactful digital experiences.</li>
-</ul>
-<p align="center">"Code is my canvas, and the web is my gallery." 🎨</p>
-
+ 
  
 
 
