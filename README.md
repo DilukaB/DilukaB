@@ -1,6 +1,6 @@
 ### 📸 GitHub Profile Cover Image:
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="Cover Image" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/DilukaB/DilukaB/1632825ba719793ce133e9611d7feb0ae72fe39d/wp2465915.png/800x200?text=Welcome+to+My+GitHub+Profile" alt="Cover Image" style="max-width: 100%;" />
 </p>
  
  <h1 align="center"> Hi, I'm Diluka Bandara! </h1>  
