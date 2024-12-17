@@ -1,5 +1,3 @@
- 
- 
  <h1 align="center"> Hi, I'm Diluka Bandara! </h1>  
 <h3 align="center"> A passionate full-stack web developer || MERN Stack Enthusiast </h3>  
 
@@ -52,5 +50,12 @@
 </p>
 
 ---
-<p align="center"> <a href="https://github.com/dilukab"> <img src="https://github-readme-stats.vercel.app/api?username=dilukab&count_private=true&show_icons=true&hide_title=true&hide=prs,issues&theme=radical&line_height=24" alt="GitHub Stats" width="400"/> </a> </p> <p align="center"> <a href="https://github.com/dilukab"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="400"/> </a> </p>
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p> 
