@@ -1,4 +1,4 @@
- <h1 align="center"> I'm Diluka Bandara! </h1>
+  <h1 align="center"> I'm Diluka Bandara! </h1>
 <h3 align="center">A passionate full-stack web developer || MERN</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🔗 Connect with me 
+### 🔗 Connect with me:
 
 <p align="center">
   <a href="https://linkedin.com/in/diluka-bandara" target="_blank"> 
@@ -47,6 +47,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" /> 
   </a>
+   
 </p>
 
 ---
@@ -59,28 +60,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p> 
-
----
-
-### 📈 Additional Stats:
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilukab&theme=dark" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilukab&theme=dark" alt="Repos per Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dilukab&theme=dark" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilukab&theme=dark" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilukab&theme=dark&utcOffset=8" alt="Productive Time" />
 </p>
