@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  
   <a href="https://linkedin.com/in/diluka-bandara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Diluka%20Bandara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=dark" alt="GitHub Streak" />
+ 
 </p>
 
 <p align="center">
