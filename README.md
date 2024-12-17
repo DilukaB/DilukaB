@@ -48,7 +48,7 @@
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukab&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukab&layout=compact&theme=react&hide_border=true&langs_count=6&count_private=true&custom_title=Top%20Languages%20(React%20Focus)" alt="Top Languages" width="400px"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilukab&theme=github_dark" alt="Repos Per Language" width="400px"/>
@@ -57,4 +57,3 @@
 
 ---
 
- 
