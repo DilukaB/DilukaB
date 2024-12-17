@@ -1,4 +1,4 @@
- <h1 align="center"> I'm Diluka Bandara! </h1>
+  <h1 align="center"> I'm Diluka Bandara! </h1>
 <h3 align="center">A passionate full-stack web developer || MERN</h3>
 
 <p align="center">
@@ -60,4 +60,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+</p>  
