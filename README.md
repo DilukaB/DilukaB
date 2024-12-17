@@ -1,7 +1,4 @@
-### 📸 GitHub Profile Cover Image:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DilukaB/DilukaB/1632825ba719793ce133e9611d7feb0ae72fe39d/wp2465915.png/800x200?text=Welcome+to+My+GitHub+Profile" alt="Cover Image" style="max-width: 100%;" />
-</p>
+ 
  
  <h1 align="center"> Hi, I'm Diluka Bandara! </h1>  
 <h3 align="center"> A passionate full-stack web developer || MERN Stack Enthusiast </h3>  
