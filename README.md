@@ -1,4 +1,4 @@
- <h1 align="center"> Hi, I'm Diluka Bandara! </h1>  
+ <h1 align="center">  I'm Diluka Bandara! </h1>  
 <h3 align="center"> A passionate full-stack web developer || MERN Stack Enthusiast </h3>  
 
 <p align="center">
