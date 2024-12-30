@@ -2,8 +2,7 @@
 <h3 align="center"> A passionate full-stack web developer || MERN Stack Enthusiast </h3>  
 
 <p align="center">
-  <a href="https://linkedin.com/in/diluka-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/ https://www.linkedin.com/in/diluka-bandara-5636ba30a-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <a href="https://www.linkedin.com/in/diluka-bandara-5636ba30a" target="_blank"
   </a>
 </p>
 
