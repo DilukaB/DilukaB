@@ -47,7 +47,7 @@
 
 <h2 align="center">📫 Let’s Connect</h2>
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="navanjana721@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/diluka-bandara-5636ba30a" target="_blank">
