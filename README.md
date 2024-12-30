@@ -1,6 +1,9 @@
  <h1 align="center"> I'm Diluka Bandara</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer | MERN Stack Enthusiast 💻</h3>
 
+<h3>Open to work
+Software Engineer and Full-stack Developer roles</h3>
+
  <p align="center">
   <a href="https://www.linkedin.com/in/diluka-bandara-5636ba30a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
