@@ -12,12 +12,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-- 🔭 Currently building **D&B7 – A food delivery platform**  
-- 🌱 Exploring advanced **MERN stack development**  
-- 💡 Keen on **React.js**, **Next.js**, and **API development**  
-- 💬 Let’s talk about **Web Development** or **Crypto Trading**!  
-- 🎯 Aspiring to craft innovative web solutions that solve real-world problems  
+ 
 
 ---
 
