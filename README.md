@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/diluka-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Diluka%20Bandara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/ https://www.linkedin.com/in/diluka-bandara-5636ba30a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNfO2BbAnR9yCyVfnQSp2yw%3D%3D-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
