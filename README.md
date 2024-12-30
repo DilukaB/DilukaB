@@ -1,5 +1,5 @@
  <h1 align="center">👋 Hi, I'm Diluka Bandara</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer 🚀 | Tech Enthusiast 💻</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer 🚀 || MERN 💻</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/diluka-bandara" target="_blank">
