@@ -44,10 +44,7 @@
 
 ---
 
-<h2 align="center">🌟 Projects</h2>
-- 💼 **D&B7**: A food delivery platform connecting users with restaurants and delivery agents  
-- 🛍️ **MERN E-commerce Website**: Fully functional online store with advanced search and payment features  
-
+ 
 ---
 
 <h2 align="center">📫 Let’s Connect</h2>
