@@ -48,29 +48,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-<h2 align="center">✨ About Me</h2>
-<p align="center">
-  🔹 I’m an undergraduate at the Sri Lanka Institute of Information Technology (SLIIT). <br>
-  🔹 I specialize in full-stack development with a focus on creating dynamic and user-friendly applications. <br>
-  🔹 Currently, I’m developing a MERN-based e-commerce website and a food delivery platform called <strong>'D&B7'</strong>. <br>
-  🔹 My goal is to craft scalable, efficient, and impactful web solutions. <br>
-</p>
-
----
-
-<h2 align="center">🌟 Highlighted Projects</h2>
-<p align="center">
-  <strong>📌 E-Commerce Website</strong>: A full-stack MERN application with a seamless user experience, secure payment gateway, and admin management tools. <br>
-  <strong>📌 D&B7 Food Delivery</strong>: A modern and interactive web platform for hassle-free food delivery services. <br>
-</p>
-
----
-
-<h2 align="center">⚡ Fun Facts</h2>
-<p align="center">
-  🐟 I enjoy keeping monster fish in my outdoor aquarium. <br>
-  🏏 Cricket enthusiast with a love for the game and a passion for supporting the Sri Lankan cricket team. <br>
-</p>
