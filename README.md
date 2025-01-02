@@ -1,5 +1,5 @@
  <h1 align="center"> I'm Diluka Bandara</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Web Developer | MERN Stack Enthusiast 💻</h3>
+<h3 align="center">🚀 A Passionate Full-Stack  Developer | MERN Stack Enthusiast 💻</h3>
 
  
 
