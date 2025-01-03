@@ -29,13 +29,13 @@
 
 <h2 align="center"> 📈 GitHub Stats </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&theme=dark&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukab&show_icons=true&theme=vue-dark&layout=compact" alt="Top Languages">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=vue-dark" alt="GitHub Stats">
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=vue-dark" alt="GitHub Streak Stats">
 </div>
 
 ---
