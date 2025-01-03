@@ -34,9 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilukab&show_icons=true&theme=vue-dark" alt="GitHub Stats">
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilukab&theme=vue-dark" alt="GitHub Streak Stats">
-</div>
+ 
 
 ---
 
